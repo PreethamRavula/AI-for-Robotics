@@ -1,2 +1,2 @@
-# AI-for-Robotics
-Repository to dmeonstrate my experience for AI functionality in robotics
+# AI_for_Robotics
+Repository to demonstrate my experience for AI functionality in robotics
